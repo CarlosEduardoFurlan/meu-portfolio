@@ -1,0 +1,19 @@
+.projects {
+    display: flex;
+    flex-direction: column;
+}
+
+.projects h1 {
+    font-size: 45px;
+    margin-left: 75px;
+    text-align: left;
+}
+
+.projects section {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+}
+
+
+
